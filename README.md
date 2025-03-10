@@ -1,7 +1,7 @@
-# Hi there, I'm CaidenL1337 👋
+# Hello There
 
 ## About Me
-I am a passionate Cybersecurity student (offensive) I study it at a college and enjoy it deeply
+I am a Cybersecurity student (offensive)
 I do not work on many projects 
 
 ## GitHub Stats
